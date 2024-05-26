@@ -4,7 +4,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img height="200" width="200" src="https://camo.githubusercontent.com/d58581056e21f247a106da6b1a45a71dfd21a4e1804da9f19246b5a58df267c6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4950377361726c3743356c534643773972472f67697068792e676966" />
+  <img height="200" width="200" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 </p>
 
 <!-- GIFs in a row -->
